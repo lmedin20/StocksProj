@@ -15,8 +15,3 @@ A Java-based stock trading simulation built with strong object-oriented principl
 - Custom PriceFactory and DTO pattern
 - TreeMap-based matching engine
 - Console-based interaction (CLI or `main.java` test class)
-
-## 🧪 How to Run
-1. Clone the repo:
-```bash
-git clone https://github.com/your-username/depaul-stock-exchange.git
